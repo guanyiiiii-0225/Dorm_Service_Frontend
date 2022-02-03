@@ -24,4 +24,4 @@ Dormy 你的宿舍好幫手是一個媒合住宿需求與願意提供協助方�
 2. yarn/npm start
 如果第三步出現問題的話，可嘗試在檔案夾中新增 <code>.env</code> 檔案，並在內新增 <code> SKIP_PREFLIGHT_CHECK=true</code>
 
-### 後端請至 Dorm_Service_Backend 查看
+### 後端請至 Dormy_Backend 查看
